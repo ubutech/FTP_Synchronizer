@@ -1,0 +1,14 @@
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\bin\Debug\FTP Synchronizer.exe.config
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\bin\Debug\FTP Synchronizer.exe
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\bin\Debug\FTP Synchronizer.pdb
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\obj\Debug\FTP Synchronizer.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\obj\Debug\FTP_Synchronizer.Form1.resources
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\obj\Debug\FTP_Synchronizer.Properties.Resources.resources
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\obj\Debug\FTP Synchronizer.csproj.GenerateResource.Cache
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\obj\Debug\FTP Synchronizer.exe
+c:\users\robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\obj\Debug\FTP Synchronizer.pdb
+C:\Users\Robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\obj\Debug\FTP_Synchronizer.Info.resources
+C:\Users\Robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Robert\documents\visual studio 2012\Projects\FTP Synchronizer\FTP Synchronizer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
